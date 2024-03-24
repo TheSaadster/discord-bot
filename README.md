@@ -1,5 +1,5 @@
 # AI Discord Bot
-
+#### Project Showcase: https://www.youtube.com/watch?v=T-0KNo7aqcw&ab_channel=Saad%27sCodingProjects
 ## Description
 This code comprises a simple Discord bot designed to respond to user messages using OpenAI's GPT-3.5 model. Upon receiving a message in a Discord channel, the bot generates a response based on the received message using the GPT-3.5 model, and then sends the response either in the same channel or as a direct message to the user, depending on the message content.
 
